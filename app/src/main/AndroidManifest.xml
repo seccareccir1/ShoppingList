@@ -10,16 +10,15 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="me.jakir.ShoppingList.MainActivity"
+            android:name="com.Seccareccir1.ShoppingList.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
-            android:name="me.jakir.ShoppingList.SecondActivity"
+            android:name="com.Seccareccir1.ShoppingList.SecondActivity"
             android:label="@string/title_activity_second" >
         </activity>
 
