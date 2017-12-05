@@ -18,8 +18,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 
-import me.jakir.multiactivity.R;
-
 
 public class MainActivity extends ActionBarActivity {
     private static final String TAG = "MainActivity";

@@ -23,7 +23,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-import me.jakir.multiactivity.R;
+import com.Seccareccir1.ShoppingList.*;
 
 
 public class SecondActivity extends ActionBarActivity {
